@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+
+
+header {
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding-bottom: 0%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+ol, ul, li {
+    margin: 10px;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+body {
+    font-family: urbanist;
+    text-align: center;
+    background-color: gold;
+}
+
+footer {
+    margin: 0 auto;
+}
+
+.container .introduction {
+    background-color: #ffdd2b;
+    max-width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.footer .copyright {
+    background-color:#ffdd2b;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    color:black;
+    font-size: 10px;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.quote {
+    background-color: #ffdd2b;
+    max-width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.links {
+    background-color: #ffdd2b;
+    max-width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+
+.twtbtn {
+    padding: .3em .7em;
+    margin-bottom: 10px;
+    background-color:  rebeccapurple;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.twtbtn:hover {
+    background-color: purple;
+}
+
+.fbbtn {
+    padding: .3em .7em;
+    margin-bottom: 10px;
+    background-color:  rebeccapurple;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
+
+.fbbtn:hover {
+    background-color: purple;
+}
